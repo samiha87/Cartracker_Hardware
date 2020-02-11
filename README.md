@@ -1,6 +1,10 @@
 # Cartracker_Hardware
 KiCad
 
+# General
+- As for component type SMD is selected
+- Components need to be clearly suitable for soldering by hand
+
 ## Processor:
 
 For microcontroller using STM32F103C8T6 (Recommend buying from Aliexpress). Has 3 Uarts and 2 of them are 5V tolerant. 
@@ -8,7 +12,7 @@ For microcontroller using STM32F103C8T6 (Recommend buying from Aliexpress). Has 
 
 ## Power
 
-For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V.
+For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V. As for converter chips using Step-Down(Buck) chips 
 
 ## Webasto W-Bus.
 On Webasto T91 transmitter/receiver, found 4pin cable ment for Webasto timer. On Volkswagen Caddy this was located to driver side.
