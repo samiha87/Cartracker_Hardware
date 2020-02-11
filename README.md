@@ -4,7 +4,7 @@ KiCad
 # General
 - Component type SMD
 - Components need to be clearly suitable for soldering by hand
-- Manufactured at pcbway
+- Circuit boards will be printed at pcbway https://www.pcbway.com/
 - Design environment KiCad, Circuit Diagram
 
 STM32 supports CAN protocol. Is it possible to access OBD2 CAN HIGH and CAN LOW.
