@@ -12,7 +12,7 @@ KiCad
 - Bluetooth: HM-10, UART 3.3V
 - U-Blox NEO-6M-0-0: GPS, SPI. STM32 as Master, GPS as Slave.
 - MPU-9250/6500: IMU, I2C. 
-- W-Bust interface: L9637D, UART 5V
+- W-Bus(Webasto) interface: L9637D, UART 5V
 ### Extra
 - Raspberry Pi 4, SPI. STM32 as Slave, Raspberry as Master.
 
