@@ -7,6 +7,9 @@ KiCad
 - Manufactured at pcbway
 - Design environment KiCad, Circuit Diagram
 
+STM32 supports CAN protocol. Is it possible to access OBD2 CAN HIGH and CAN LOW.
+https://components101.com/connectors/obd2
+
 ## Components overview
 - STM32F103C8T
 - NEOWAY M590: GSM/GPRS, UART 3.3V
