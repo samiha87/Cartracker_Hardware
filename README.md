@@ -1,6 +1,10 @@
 # Cartracker_Hardware
 KiCad
 
+## Processor:
+
+For microcontroller using STM32F103C. Has 3 Uarts and 2 of them are 5V tolerant.
+
 ## Power
 
 For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V.
@@ -19,5 +23,5 @@ Wiring colors can change depending on car.
 - Brown: Ground
 
 ### Interface:
-As for interface using L9637D to shift 12V to 5V. 
+As for interface using L9637D to shift 12V to 5V. Can be attached to UART 2 line which is 5V tolerant.
 - Ref: https://www.mikrocontroller.net/attachment/251313/W-Bus.png
