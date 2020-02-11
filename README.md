@@ -8,7 +8,7 @@ KiCad
 - Design environment KiCad, Circuit Diagram
 
 ## Components overview
-- ST32F103C8T
+- STM32F103C8T
 - NEOWAY M590: GSM/GPRS, UART 3.3V
 - Bluetooth: HM-10, UART 3.3V
 - U-Blox NEO-6M: GPS, SPI. STM32 as Master, GPS as Slave.
