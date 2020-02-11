@@ -14,7 +14,7 @@ KiCad
 - MPU-9250/6500: IMU, I2C. 
 - W-Bus(Webasto) interface: L9637D, UART 5V
 ### Extra
-- Raspberry Pi 4, Bluetooth. Raspberry uses BLE to connect the microcontroller. (Does raspberry have any need to connect microcontroller?)
+- Raspberry Pi 4, Bluetooth. Raspberry uses BLE to connect the microcontroller. (Does raspberry have any need to connect microcontroller?) 2 Possible option BLE or SPI.
 
 ### Datasheets:
 - https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
