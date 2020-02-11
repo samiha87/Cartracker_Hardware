@@ -5,6 +5,7 @@ KiCad
 - Component type SMD
 - Components need to be clearly suitable for soldering by hand
 - Manufactured at pcbway
+- Design environment KiCad
 
 ## Processor:
 
