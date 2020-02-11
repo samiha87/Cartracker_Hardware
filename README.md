@@ -10,6 +10,9 @@ On Webasto T91 transmitter/receiver, found 4pin cable ment for Webasto timer. On
 To access this cable you need to open the drivers desk from left side, next to wheel.
 
 ### Wiring:
+
+Wiring colors can change depending on car.
+
 - Yellow cable: W-Bust
 - Red cable: 12V
 - Black: Ground
