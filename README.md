@@ -21,6 +21,7 @@ KiCad
 - https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
 - http://cyntech.co.uk/downloads/neoway-m590-hardware-design-manual-v1.pdf
 - https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
+- https://www.academia.edu/15633281/GSM_GPRS_Modem_-_Neoway_M590_M590E
 
 ## Processor:
 
