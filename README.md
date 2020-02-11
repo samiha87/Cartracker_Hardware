@@ -37,6 +37,7 @@ For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). R
 - ACT4060A 2A. Due the power reuquirements of NEOWAY GSM module.
 
 - Ref: http://www.ti.com/product/TPS62160
+- Ref: https://media.digikey.com/pdf/Data%20Sheets/Active-Semi%20PDF's/ACT4060A.pdf
 
 ## Webasto W-Bus.
 On Webasto T91 transmitter/receiver, found 4pin cable ment for Webasto timer. On Volkswagen Caddy this was located to driver side.
