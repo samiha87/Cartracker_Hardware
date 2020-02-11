@@ -34,6 +34,7 @@ For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). R
 - TPS62160
 ### 5V Output
 - TPS62160
+- ACP
 
 - Ref: http://www.ti.com/product/TPS62160
 
