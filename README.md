@@ -8,11 +8,13 @@ KiCad
 - Design environment KiCad
 
 ## Components overview
-- NEOWAY M590: GSM/GPRS, 
+- NEOWAY M590: GSM/GPRS, UART 3.3V
 - Bluetooth: HM-10, UART 3.3V
 - U-Blox NEO-6M-0-0: GPS, SPI 
 - MPU-9250/6500: IMU, I2C. 
 - W-Bust interface: L9637D, UART 5V
+### Extra
+- Raspberry Pi 4, SPI
 
 ### Datasheets:
 - https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
