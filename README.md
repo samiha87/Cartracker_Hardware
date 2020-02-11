@@ -2,8 +2,9 @@
 KiCad
 
 # General
-- As for component type SMD is selected
+- Component type SMD
 - Components need to be clearly suitable for soldering by hand
+- Manufactured at pcbway
 
 ## Processor:
 
