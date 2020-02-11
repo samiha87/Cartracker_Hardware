@@ -6,6 +6,13 @@ KiCad
 - Components need to be clearly suitable for soldering by hand
 - Manufactured at pcbway
 - Design environment KiCad
+## Components overview
+
+- NEOWAY M590: GSM/GPRS
+- Bluetooth: HM-10
+- U-Blox NEO-6M-0-0: GPS
+- MPU-9250/6500: IMU
+- W-Bust interface: L9637D
 
 ## Processor:
 
