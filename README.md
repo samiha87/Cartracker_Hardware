@@ -3,7 +3,7 @@ KiCad
 
 ## Processor:
 
-For microcontroller using STM32F103C. Has 3 Uarts and 2 of them are 5V tolerant.
+For microcontroller using STM32F103C8T6 (Recommend buying from Aliexpress). Has 3 Uarts and 2 of them are 5V tolerant. 
 - Ref: https://opencircuit.shop/resources/content/ad8542259ac19/crop/900-600/STM32-ARM-development-board-STM32F103C8T6.jpg
 
 ## Power
