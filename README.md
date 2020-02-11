@@ -39,6 +39,9 @@ For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). R
 ### 5V Output
 - TPS62160 1A
 - ACT4060A 2A. Due the power reuquirements of NEOWAY GSM module.
+### Car battery monitorin
+
+When car is running and battery is charged voltage jumps to 13.7V or 14.7V. Need to find out.
 
 - Ref: http://www.ti.com/product/TPS62160
 - Ref: https://media.digikey.com/pdf/Data%20Sheets/Active-Semi%20PDF's/ACT4060A.pdf
