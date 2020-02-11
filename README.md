@@ -54,7 +54,7 @@ To access this cable you need to open the drivers desk from left side, next to w
 
 Wiring colors can change depending on car.
 
-- Yellow cable: W-Bust
+- Yellow cable: W-Bus
 - Red cable: 12V. Not sure if this comes straight from Car Battery. If yes can be used to monitor battery voltage.
 - Black: Ground
 - Brown: Ground
