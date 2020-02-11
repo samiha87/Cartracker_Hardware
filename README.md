@@ -29,6 +29,11 @@ For microcontroller using STM32F103C8T6 (Recommend buying from Aliexpress). Has 
 ## Power
 
 For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V. As for converter chips using Step-Down(Buck) chips TPS62160
+### 3.3V Output
+- TPS62160
+### 5V Output
+- TPS62160
+
 - Ref: http://www.ti.com/product/TPS62160
 
 ## Webasto W-Bus.
