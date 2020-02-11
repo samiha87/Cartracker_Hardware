@@ -3,7 +3,7 @@ KiCad
 
 ## Power
 
-For power we use Switching circuit and W-Bust connectors +VB(Battert voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V.
+For power we use Switching circuit and W-Bust connectors +VB(Battery voltage). Red wiring bring 12V to circuit. Which then is connected to switching circuit and converted to 3.3V and 5V.
 
 ## Webasto W-Bus.
 On Webasto T91 transmitter/receiver, found 4pin cable ment for Webasto timer. On Volkswagen Caddy this was located to driver side.
